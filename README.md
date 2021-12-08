@@ -16,3 +16,16 @@
 ### Find me Around
 - [LinkedIn](https://github.com/AmitVermaDce)
 - Mail: amitverma.dce@gmail.com 
+
+### Language and Tools
+- Programming Language: Python (3. x version), Go Lang
+- Operating Systems: Linux, Windows, Mac OS, Unix.
+- Data Pre-processing: Pandas, NumPy
+- Machine/Deep Learning Implementation Frameworks: Scikit-Learn, Tensorflow
+- Natural Language Processing: NLTK
+- Development: Django
+- Data Visualization: Matplotlib, Tableau
+- Cloud Services: AWS EC2 Instance, Google Colaboratory, Kaggle Kernel.
+- Databases: MS SQL and Mongo DB
+- Integrated Development Environments: PyCharm, Jupyter, SQL Server Management Studio, Sublime Text, MongoDB Atlas, GoLand.
+- Miscellaneous: Git, Agile Software Development
